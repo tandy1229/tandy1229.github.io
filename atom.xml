@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tandy1229.com/"/>
-  <updated>2020-12-10T09:46:10.019Z</updated>
+  <updated>2020-12-28T13:10:10.838Z</updated>
   <id>https://tandy1229.com/</id>
   
   <author>
@@ -20,12 +20,12 @@
     <title>Mac-Linux命令行配置指南</title>
     <link href="https://tandy1229.com/archives/6e3e2b80.html"/>
     <id>https://tandy1229.com/archives/6e3e2b80.html</id>
-    <published>2020-12-10T09:46:10.019Z</published>
-    <updated>2020-12-10T09:46:10.019Z</updated>
+    <published>2020-12-28T13:10:10.837Z</published>
+    <updated>2020-12-28T13:10:10.838Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/12/02/KdbP1m5t8Z2D4Xg.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;Mac命令行配置&quot;&gt;&lt;a href=&quot;#Mac命令行配置&quot; class=&quot;headerlink&quot; title=&quot;Mac命令行配置&quot;&gt;&lt;/a&gt;Mac命令行配置&lt;/h1&gt;&lt;p&gt;每次要重裝系统或者换上新的电脑上的时候，我们会发现我们需要重新配置我们用习惯的环境。&lt;br&gt;(其实是最近这几天学校的课程又要求装一个win7虚拟机进行病毒测试，而前几天那个课程又下了个kali虚拟机，我的硬盘空间满了，故不得不重装系统。&lt;br&gt;鉴于这一年以来我也重装了5、6次系统（把macOS当做Linux折腾的缘故），我觉得是有必要写一篇如何配置一个计算机专业专用的环境的文章。&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/12/02/KdbP1m5t8Z2D4Xg.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;Mac-命令行配置&quot;&gt;&lt;a href=&quot;#Mac-命令行配置&quot; class=&quot;headerlink&quot; title=&quot;Mac 命令行配置&quot;&gt;&lt;/a&gt;Mac 命令行配置&lt;/h1&gt;&lt;p&gt;每次要重裝系统或者换上新的电脑上的时候，我们会发现我们需要重新配置我们用习惯的环境。&lt;br&gt;(其实是最近这几天学校的课程又要求装一个 win7 虚拟机进行病毒测试，而前几天那个课程又下了个 kali 虚拟机，我的硬盘空间满了，故不得不重装系统。&lt;br&gt;鉴于这一年以来我也重装了 5、6 次系统（把 macOS 当做 Linux 折腾的缘故），我觉得是有必要写一篇如何配置一个计算机专业专用的环境的文章。&lt;/p&gt;
     
     </summary>
     
