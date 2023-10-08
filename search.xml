@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/archives/16107.html</url>
+    <content><![CDATA[<p><img data-src="https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg" alt=""></p><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>你好，世界！</p><i class="fa fa-quote-right"></i></blockquote>]]></content>
+  </entry>
+  <entry>
     <title>I is back</title>
     <url>/archives/739d84d2.html</url>
     <content><![CDATA[<p><img data-src="https://s2.loli.net/2023/09/14/GCOYQMvjcmJsTUt.jpg" alt=""></p><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>又是经典的：— 我又回来了<del>~</del></p><i class="fa fa-quote-right"></i></blockquote><a id="more"></a><h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><p>我发现自己在维护这个网站方面总有一些拖延症，比如27号创建了这个文件然而31号才更新。</p><blockquote><p>20年的时候也是，Mac的那篇zsh部分至今未动笔…</p></blockquote><p>但是网站的复活还是得发表一下打赢复活赛的感言的！！</p><h3 id="首先感谢"><a href="#首先感谢" class="headerlink" title="首先感谢"></a>首先感谢</h3><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>JSON</p><i class="fa fa-quote-right"></i></blockquote><p>虽然一直吐槽<code>node</code>，但是<code>package.json</code>文件直接促使网站的复活，虽然中间出现了一些小小的波折，但总归是非常完美地完成了20年原有环境的搭建，这一切都要归功于<code>package.json</code>文件所携带的包管理信息！！直接成功复原20年的环境！！！这又让我想起来毕设时候GO语言没有包版本管理中复现的痛苦:-(。所以:</p><blockquote><p>Thank you <code>json</code>！<br>该用户坚信<code>json</code>是世界第一的数据格式！！！</p></blockquote><p>也感谢<code>node</code>)</p><h3 id="其次感谢"><a href="#其次感谢" class="headerlink" title="其次感谢"></a>其次感谢</h3><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>GitHub</p><i class="fa fa-quote-right"></i></blockquote><p><code>GitHub Action</code>的折腾让我想起了我的小站，同时虽然我一直没更新，但一直托管在<code>GitHub Pages</code>上，<br>虽然也同时部署在腾讯的<code>Coding</code>上，但是疫情期间<code>Coding</code>直接结束个人服务了，所以腾讯，我XXXX！！！</p><blockquote><p>但<strong>GitHub</strong>一直都在<del>~</del></p></blockquote><p>没错，一切的根源还是<code>GitHub</code>。感谢！！</p><blockquote><p>Thank you <del>GayHub</del> <strong>GitHub</strong>!!</p></blockquote><h3 id="最后感谢"><a href="#最后感谢" class="headerlink" title="最后感谢"></a>最后感谢</h3><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><hr><i class="fa fa-quote-right"></i></blockquote><p>当然是<strong>我</strong>自己了，做好重要文件的备份，完美的好习惯。</p><p>直接满血复活，i了i了。</p><blockquote><p><del>我超佩服我自己的</del></p></blockquote><h2 id="行文最后"><a href="#行文最后" class="headerlink" title="行文最后"></a>行文最后</h2><p>不忘总结:-)</p><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>— 我又回来了<del>~</del></p><i class="fa fa-quote-right"></i></blockquote>]]></content>
@@ -25,17 +30,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/archives/16107.html</url>
-    <content><![CDATA[<p><img data-src="https://i.loli.net/2020/05/01/1kGnMT4RQJvtujr.jpg" alt=""></p><blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>你好，世界！</p><i class="fa fa-quote-right"></i></blockquote>]]></content>
-  </entry>
-  <entry>
-    <title>我又回来啦</title>
-    <url>/archives/32090.html</url>
-    <content><![CDATA[<p>emmm，荒废了那么久，我又回来啦。</p><p><img data-src="https://i.loli.net/2020/09/11/pYj3ZVwFrEQUldb.jpg" alt=""></p><a id="more"></a><p>诶，在暑假还是玩的太多了，以至于我都忘记了我可爱的网站🤦‍♂️🤦‍♂️🤦‍♂️。</p><p>俗话说的好呀：“现在还不算太迟。”。如今疫情在我国接近尾声，我也回到了学校，是时候对我<strong>亲爱的网站</strong>进行一波更新了。我先就不放出要更新什么了。。。<del>（我怕我鸽了）</del></p><p><strong>总之，请期待😘<del>~</del></strong></p>]]></content>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
+    <title>小站说明</title>
+    <url>/archives/b4c1f0cd.html</url>
+    <content><![CDATA[<blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>这是我对自己小站的一点说明</p><i class="fa fa-quote-right"></i></blockquote><p><img data-src="https://i.loli.net/2020/09/14/5UToLmMWRCVBEaO.jpg" alt=""></p><a id="more"></a><h2 id="小站概述-小站主的自言自语🙄"><a href="#小站概述-小站主的自言自语🙄" class="headerlink" title="小站概述(小站主的自言自语🙄)"></a>小站概述(小站主的自言自语🙄)</h2><ul><li>我的网站也只是算是业余爱好而已吧，我也没有什么闲情去让搜索引擎收编我的网站，也没有什么闲思去备案，也没钱去买服务器自己弄。就利用GitHub和coding的免费的静态网站托管，集成了多种开源组件（这里要感谢开源，高喊一声代码nb），随便去国外网站买个域名咯。<strong>（PS：这个网站搜索引擎是搜不到的）</strong></li><li>这个网站没有什么花里胡哨的东西，图床什么的，镜像自有服务什么的都没有（虽然我挺想弄的），原本想加个又拍云什么的，结果又拍云的服务只能备案以后才能用🤦‍♂️🤦‍♂️🤦‍♂️，这也是我只想着抄近路，和作为一个学生党木有太多的💰的悲哀吧。<strong>如果以后能有机会再弄吧。。。</strong></li></ul><h2 id="站主自述-小站主的某些想法🙄"><a href="#站主自述-小站主的某些想法🙄" class="headerlink" title="站主自述(小站主的某些想法🙄)"></a>站主自述(小站主的某些想法🙄)</h2><ul><li>总之这里算是一片净土吧，无商用，无广告，只有作为一个普通的学生的各种思绪，各种碎碎念，各种感想吧，从中你也可以瞥见，站主的世界观是如何被现实每天刷新一遍的💪。这个网站的内容也算是写给自己看的吧，看一下自己的语文水平—至少现在还能写下这个小站说明吧。</li><li>在这个网站，我就是creater，但毕竟觉得没什么人看，我也喜欢用各种开玩笑的语气来吐槽自己（就比如关于我👶</li></ul><h2 id="版权问题🙏🙏🙏"><a href="#版权问题🙏🙏🙏" class="headerlink" title="版权问题🙏🙏🙏"></a>版权问题🙏🙏🙏</h2><p><strong>因为没申请被搜索引擎收录，所以图片什么的也是从互联网上摘录的（大多数是pixiv），如果侵犯了您的版权，可以直接通过评论让我知道，我一定会删的（虽然我也知道大概没什么人会向我要版权费的，毕竟只是一个一百多人流量的网站）</strong></p><h2 id="？？？"><a href="#？？？" class="headerlink" title="？？？"></a>？？？</h2><p>有需要时会更新。。。</p>]]></content>
   </entry>
   <entry>
     <title>关于简繁的一些感想</title>
@@ -49,11 +46,6 @@
       </tags>
   </entry>
   <entry>
-    <title>小站说明</title>
-    <url>/archives/b4c1f0cd.html</url>
-    <content><![CDATA[<blockquote class="blockquote-center"><i class="fa fa-quote-left"></i><p>这是我对自己小站的一点说明</p><i class="fa fa-quote-right"></i></blockquote><p><img data-src="https://i.loli.net/2020/09/14/5UToLmMWRCVBEaO.jpg" alt=""></p><a id="more"></a><h2 id="小站概述-小站主的自言自语🙄"><a href="#小站概述-小站主的自言自语🙄" class="headerlink" title="小站概述(小站主的自言自语🙄)"></a>小站概述(小站主的自言自语🙄)</h2><ul><li>我的网站也只是算是业余爱好而已吧，我也没有什么闲情去让搜索引擎收编我的网站，也没有什么闲思去备案，也没钱去买服务器自己弄。就利用GitHub和coding的免费的静态网站托管，集成了多种开源组件（这里要感谢开源，高喊一声代码nb），随便去国外网站买个域名咯。<strong>（PS：这个网站搜索引擎是搜不到的）</strong></li><li>这个网站没有什么花里胡哨的东西，图床什么的，镜像自有服务什么的都没有（虽然我挺想弄的），原本想加个又拍云什么的，结果又拍云的服务只能备案以后才能用🤦‍♂️🤦‍♂️🤦‍♂️，这也是我只想着抄近路，和作为一个学生党木有太多的💰的悲哀吧。<strong>如果以后能有机会再弄吧。。。</strong></li></ul><h2 id="站主自述-小站主的某些想法🙄"><a href="#站主自述-小站主的某些想法🙄" class="headerlink" title="站主自述(小站主的某些想法🙄)"></a>站主自述(小站主的某些想法🙄)</h2><ul><li>总之这里算是一片净土吧，无商用，无广告，只有作为一个普通的学生的各种思绪，各种碎碎念，各种感想吧，从中你也可以瞥见，站主的世界观是如何被现实每天刷新一遍的💪。这个网站的内容也算是写给自己看的吧，看一下自己的语文水平—至少现在还能写下这个小站说明吧。</li><li>在这个网站，我就是creater，但毕竟觉得没什么人看，我也喜欢用各种开玩笑的语气来吐槽自己（就比如关于我👶</li></ul><h2 id="版权问题🙏🙏🙏"><a href="#版权问题🙏🙏🙏" class="headerlink" title="版权问题🙏🙏🙏"></a>版权问题🙏🙏🙏</h2><p><strong>因为没申请被搜索引擎收录，所以图片什么的也是从互联网上摘录的（大多数是pixiv），如果侵犯了您的版权，可以直接通过评论让我知道，我一定会删的（虽然我也知道大概没什么人会向我要版权费的，毕竟只是一个一百多人流量的网站）</strong></p><h2 id="？？？"><a href="#？？？" class="headerlink" title="？？？"></a>？？？</h2><p>有需要时会更新。。。</p>]]></content>
-  </entry>
-  <entry>
     <title>希腊字母表备记</title>
     <url>/archives/560a262c.html</url>
     <content><![CDATA[<h1 id="希腊字母表"><a href="#希腊字母表" class="headerlink" title="希腊字母表"></a>希腊字母表</h1><p><img data-src="https://i.loli.net/2020/10/22/5CpkwnTfhJSGRiZ.jpg" alt=""></p><a id="more"></a><table><thead><tr><th align="center">uppercase letter</th><th align="center">lowercase letter</th><th align="center">English</th><th align="center">International Phonetic Notation</th><th align="center">Chinese phonetic</th></tr></thead><tbody><tr><td align="center">A</td><td align="center">α</td><td align="center">alpha</td><td align="center">a:lf</td><td align="center">阿尔法</td></tr><tr><td align="center">B</td><td align="center">β</td><td align="center">beta</td><td align="center">bet</td><td align="center">贝塔</td></tr><tr><td align="center">Γ</td><td align="center">γ</td><td align="center">gamma</td><td align="center">ga:m</td><td align="center">伽马</td></tr><tr><td align="center">Δ</td><td align="center">δ</td><td align="center">delta</td><td align="center">delt</td><td align="center">德尔塔</td></tr><tr><td align="center">Ε</td><td align="center">ε</td><td align="center">epsilon</td><td align="center">ep`zhisilon</td><td align="center">伊普西龙</td></tr><tr><td align="center">Ζ</td><td align="center">ζ</td><td align="center">zeta</td><td align="center">zat</td><td align="center">截塔</td></tr><tr><td align="center">Η</td><td align="center">η</td><td align="center">eta</td><td align="center">eit</td><td align="center">艾塔</td></tr><tr><td align="center">Θ</td><td align="center">θ</td><td align="center">theta</td><td align="center">θit</td><td align="center">西塔</td></tr><tr><td align="center">Ι</td><td align="center">ι</td><td align="center">itoa</td><td align="center">aiot</td><td align="center">约塔</td></tr><tr><td align="center">Κ</td><td align="center">κ</td><td align="center">kappa</td><td align="center">kap</td><td align="center">卡帕</td></tr><tr><td align="center">∧</td><td align="center">λ</td><td align="center">lambda</td><td align="center">lambd</td><td align="center">兰布达</td></tr><tr><td align="center">M</td><td align="center">μ</td><td align="center">mu</td><td align="center">mju</td><td align="center">谬</td></tr><tr><td align="center">N</td><td align="center">ν</td><td align="center">nu</td><td align="center">nju</td><td align="center">纽</td></tr><tr><td align="center">Ξ</td><td align="center">ξ</td><td align="center">zi</td><td align="center">ksi</td><td align="center">克see</td></tr><tr><td align="center">Ο</td><td align="center">ο</td><td align="center">omicron</td><td align="center">omik`ron</td><td align="center">奥密克戎</td></tr><tr><td align="center">∏</td><td align="center">π</td><td align="center">pi</td><td align="center">pai</td><td align="center">派</td></tr><tr><td align="center">Ρ</td><td align="center">ρ</td><td align="center">rho</td><td align="center">rou</td><td align="center">肉</td></tr><tr><td align="center">∑</td><td align="center">σ</td><td align="center">sigma</td><td align="center">`sigma</td><td align="center">西格玛</td></tr><tr><td align="center">Τ</td><td align="center">τ</td><td align="center">tau</td><td align="center">tau</td><td align="center">套</td></tr><tr><td align="center">Υ</td><td align="center">υ</td><td align="center">upsilon</td><td align="center">ju:p`sailon</td><td align="center">宇普西龙</td></tr><tr><td align="center">Φ</td><td align="center">φ</td><td align="center">phi</td><td align="center">fai</td><td align="center">佛爱</td></tr><tr><td align="center">Χ</td><td align="center">χ</td><td align="center">chi</td><td align="center">phai</td><td align="center">西</td></tr><tr><td align="center">Ψ</td><td align="center">ψ</td><td align="center">psi</td><td align="center">psai</td><td align="center">浦西</td></tr><tr><td align="center">Ω</td><td align="center">ω</td><td align="center">omega</td><td align="center">o`miga</td><td align="center">欧米伽</td></tr></tbody></table>]]></content>
@@ -61,6 +53,14 @@
         <tag>数学</tag>
         <tag>物理</tag>
         <tag>常用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我又回来啦</title>
+    <url>/archives/32090.html</url>
+    <content><![CDATA[<p>emmm，荒废了那么久，我又回来啦。</p><p><img data-src="https://i.loli.net/2020/09/11/pYj3ZVwFrEQUldb.jpg" alt=""></p><a id="more"></a><p>诶，在暑假还是玩的太多了，以至于我都忘记了我可爱的网站🤦‍♂️🤦‍♂️🤦‍♂️。</p><p>俗话说的好呀：“现在还不算太迟。”。如今疫情在我国接近尾声，我也回到了学校，是时候对我<strong>亲爱的网站</strong>进行一波更新了。我先就不放出要更新什么了。。。<del>（我怕我鸽了）</del></p><p><strong>总之，请期待😘<del>~</del></strong></p>]]></content>
+      <tags>
+        <tag>碎碎念</tag>
       </tags>
   </entry>
 </search>
